@@ -3,3 +3,4 @@
 /main.parquet
 /moves.parquet
 /problems_2023_01_30
+__pycache__/
